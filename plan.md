@@ -1,6 +1,7 @@
-# As it's a very basic app, so the planning will be so simple too.
+## As it's a very basic app, so the planning will be so simple too.
 
-``` 1. I can make every common components and save them on a folder called like "components" under the "src". Also I can make some different folder like "pages", "sections".
+``` 
+1. I can make every common components and save them on a folder called like "components" under the "src". Also I can make some different folder like "pages", "sections".
 
 2. Using the components, I can make the static template. Also I can include style for them. 
 
